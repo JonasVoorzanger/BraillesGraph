@@ -1,0 +1,3 @@
+The goal of this project is to enable anyone to create tactile graphs. This code was written by Jonas Voorzanger, a teacher in physics and computer science at Het Amsterdams Lyceum, a high school in Amsterdam. The code was not originally written to share, so please don't expect clean, well documented code.
+
+Anyone is free to use, edit, share, copy, comment, celebrate, etc. this code in any possible way! =)
